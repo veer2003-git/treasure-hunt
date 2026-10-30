@@ -1,0 +1,10 @@
+{
+    "rows": 8,
+    "cols": 8,
+    "num_actions": 4,
+    "learning_rate": 0.1,
+    "discount_factor": 0.95,
+    "epsilon": 0.0494138221100385,
+    "epsilon_min": 0.01,
+    "epsilon_decay": 0.995
+}
